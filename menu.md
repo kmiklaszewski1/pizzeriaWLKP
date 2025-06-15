@@ -2,7 +2,7 @@
 
 ## Pizze klasyczne
 
-<img src = "img/" width = 300>
+<img src = "/pizza img/ivan-torres-MQUqbmszGGM-unsplash.jpg" width = 300>
 
 |Lp.|Pizza :                                                               |rozmiar :                     | 30 cm | 50 cm | 70 cm |
 |---|----------------------------------------------------------------------|------------------------------|-------|-------|-------|
