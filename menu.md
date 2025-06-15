@@ -43,5 +43,27 @@
 
 ## Sosy
 
-<img src = "
+<img src = "pizza img/shiza-nazir-g3paN3v9J_w-unsplash.jpg" width = 300>
+
+|Lp.|Sosy :         |porcja :                      | 50g  | 100g  | 200 g |
+|---|---------------|------------------------------|------|-------|-------|
+|1. |Czosnkowy      |                              | 3 zł | 5 zł  | 7 zł  |
+|2. |Pomidorowy     |                              |2,50zł|4,50 zł|  6zł  |
+|3. |1000 wysp      |                              | 2zł  |3,50 zł|4,50 zł|
+|4. |Ostry          |                              |2,50zł|4,50 zł|  6zł  |
+
+
+## Dodatki
+
+<img src = " " width = 300>
+
+|Lp.|Dodatki :         |porcja :                      | 50g  | 100g  | 200 g |
+|---|---------------|------------------------------|------|-------|-------|
+|1. |Czosnkowy      |                              | 3 zł | 5 zł  | 7 zł  |
+|2. |Pomidorowy     |                              |2,50zł|4,50 zł|  6zł  |
+|3. |1000 wysp      |                              | 2zł  |3,50 zł|4,50 zł|
+|4. |Ostry          |                              |2,50zł|4,50 zł|  6zł  |
+
+
+
 
