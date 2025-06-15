@@ -16,7 +16,20 @@
 |8. |Barbeque (sos pomidorowy, ser, kurczak, boczek, sos barbeque, oregano)|                              | 27 zł | 37 zł | 47 zł |
 |9. |Quattro Fromaggi (sos pomidorowy, 4 sery, oregano)                    |                              | 27 zł | 37 zł | 47 zł |
 |10.|Kebab (sos pomidorowy, ser, kurczak, wołowina, sos czosnkowy)         |                              | 27 zł | 37 zł | 47 zł |
+|11.|Wegetariana (sos pomidorowy, ser, pieczarki, brokuły, kukurydza)      |                              | 25 zł | 35 zł | 45 zł |
+ 
 
 ## Makarony
+
+<img src = "pizza img/eaters-collective-ddZYOtZUnBk-unsplash.jpg" width = 300>
+
+|Lp.|Makarony :                                                            |porcja :                      | 500g  | 650g  | 750 g |
+|---|----------------------------------------------------------------------|------------------------------|-------|-------|-------|
+|1. |Bolonese (sos pomidorowy, oregano, mięso mielone, makaron)            |                              | 20 zł | 30 zł | 40 zł |
+|2. |Carbonara (sos serowy, ser śmietankowy, jajka, makaron, boczek)       |                              | 25 zł | 35 zł | 45 zł |
+|3. |Picante (sos pomidorowy,tabasco, papryczka piri piri, jalapeno)       |                              | 27zł  | 37 zł | 47 zł |
+
+
+## Sałatki 
 
 <img src = "
