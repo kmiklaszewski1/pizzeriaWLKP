@@ -17,3 +17,6 @@
 |9. |Quattro Fromaggi (sos pomidorowy, 4 sery, oregano)                    |                              | 27 zł | 37 zł | 47 zł |
 |10.|Kebab (sos pomidorowy, ser, kurczak, wołowina, sos czosnkowy)         |                              | 27 zł | 37 zł | 47 zł |
 
+## Makarony
+
+<img src = "
