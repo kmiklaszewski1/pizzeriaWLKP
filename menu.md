@@ -32,4 +32,16 @@
 
 ## Sałatki 
 
+<img src = "pizza img/yoav-aziz-AiHJiRCwB3w-unsplash.jpg" width = 300>
+
+|Lp.|Sałatki :                                                                     |porcja :                      | 200g  | 400g  | 600 g |
+|---|------------------------------------------------------------------------------|------------------------------|-------|-------|-------|
+|1. |Klasyczna (sałata, rukola, dressing, pomidory koktajlowe, kukurydza, groszek) |                              | 15 zł | 20 zł | 25 zł |
+|2. |Cezar (sałata, ser gouda, jajka, kurczak, kukurydza, pomidory koktajlowe)     |                              | 20 zł | 25 zł | 30zł  |
+|3. |Grecka (sałata, pomidory koktajlowe, oliwki, ser feta, dressing, rukola)      |                              | 17zł  | 22 zł | 27 zł |
+
+
+## Sosy
+
 <img src = "
+
