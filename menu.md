@@ -67,7 +67,18 @@
 
 ## Napoje
 
-<img src = "" width = 300>
+<img src = "pizza img/jonny-caspari-sQNq223Rr54-unsplash.jpg" width = 300>
+
+|Lp.|Napoje :       |porcja :                      | mała | duża  |  XXL  |
+|---|---------------|------------------------------|------|-------|-------|
+|1. |Woda mineralna |                              | 10 zł| 15 zł | 18 zł |
+|2. | Woda gazowana |                              |12 zł | 16zł  | 18zł  |
+|3. |   Coca Cola   |                              | 8zł  |12zł   |15zł   |
+|4. |     Fanta     |                              | 9zł  |15 zł  | 20zł  |
+|4. |    Sprite     |                              | 9zł  |15 zł  | 20zł  |
+|4. |    Herbata    |                              | 9zł  |15 zł  | 20zł  |
+|4. |     Kawa     |                              | 9zł  |15 zł  | 20zł  |
+
 
 
 
