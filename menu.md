@@ -55,7 +55,7 @@
 
 ## Dodatki
 
-<img src = " " width = 300>
+<img src = "pizza img/fernanda-martinez-H2RzlOijhlQ-unsplash.jpg " width = 300>
 
 |Lp.|Dodatki :      |porcja :                      | mała | duża  |  XXL  |
 |---|---------------|------------------------------|------|-------|-------|
