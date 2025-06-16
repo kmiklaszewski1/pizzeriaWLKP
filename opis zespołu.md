@@ -1,3 +1,7 @@
 # Zespół
 
-treść
+## Kierownik
+
+## Grafik
+
+## Dostawca
