@@ -57,12 +57,12 @@
 
 <img src = " " width = 300>
 
-|Lp.|Dodatki :         |porcja :                      | 50g  | 100g  | 200 g |
+|Lp.|Dodatki :      |porcja :                      | mała | duża  |  XXL  |
 |---|---------------|------------------------------|------|-------|-------|
-|1. |Czosnkowy      |                              | 3 zł | 5 zł  | 7 zł  |
-|2. |Pomidorowy     |                              |2,50zł|4,50 zł|  6zł  |
-|3. |1000 wysp      |                              | 2zł  |3,50 zł|4,50 zł|
-|4. |Ostry          |                              |2,50zł|4,50 zł|  6zł  |
+|1. |Frytki         |                              | 10 zł| 15 zł | 18 zł |
+|2. |Kuleczki serowe|                              |12 zł | 16zł  | 18zł  |
+|3. |Krążki cebulowe|                              | 8zł  |12zł   |15zł   |
+|4. |Nuggetsy       |                              | 9zł  |15 zł  | 20zł  |
 
 
 
